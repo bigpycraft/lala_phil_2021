@@ -25,8 +25,8 @@
 [P20211211_2]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/lala_phil_2021/blob/master/orchestra/practice/20211211_xmas_medley_B.html                                   "Go P20211211_2"
 
 <hr>
+
 ## 2021 크리스마스연주회 연습 - 사진들
-https://github.com/bigpycraft/lala_phil_2021/blob/main/orchestra/video/20211106_pinocchio.mp4
 
 <img src="./photo/합주연습_2021년11월_01.jpg">
 <img src="./photo/합주연습_2021년11월_02.jpg">
