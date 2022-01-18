@@ -14,7 +14,6 @@
     </td>
     <td width='30%'>
       <img src="./images/lala_philharmonic_logo.png" width='250px'>
-      <br/>
       <font color='#EEEEEE' size=2>
       <br/>Concert Play List
       <br/>1. Second Waltz From Suite No.2 for Variety Orchestra
