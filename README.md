@@ -3,7 +3,7 @@
 
 <div align='right'>
 <font size=2 color='#EEEE00'>LALA Philharmonic 1st Viloinist</font>  |  <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font>
-<img src="./images/img_main_front.png" width='100px'>
+<img src="./images/lala_philharmonic_logo.png" width='100px'>
 </div>
 
 ## 라라 필하모닉 오케스트라 -  2021 크리스마스 연주회
@@ -13,7 +13,7 @@
       <img src="./images/poster_20211218_1.jpg" width='300px'>
     </td>
     <td width='30%'>
-      <img src="./images/img_main_front.png" width='250px'>
+      <img src="./images/lala_philharmonic_logo.png" width='250px'>
       <br/>
       <br/>Concert Play List
       <br/>1. Second Waltz From Suite No.2 for Variety Orchestra, 나홀로집에 OST
