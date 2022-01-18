@@ -7,7 +7,7 @@
 </div>
 
 ## 라라 필하모닉 오케스트라 -  2021 크리스마스 연주회
-<table border=0 width='960px' bgcolor='black'>
+<table border=0 width='960px'>
   <tr>
     <td width='35%'>
       <img src="./images/poster_20211218_1.jpg" width='300px'>
@@ -15,14 +15,12 @@
     <td width='30%'>
       <img src="./images/lala_philharmonic_logo.png" width='250px'>
       <br/>
-      <font color='#EEEEEE' size=2>
       <br/>Concert Play List
-      <br/>1. Second Waltz From Suite No.2 for Variety Orchestra
-      <br/>2. When You Wish Upon A Star
-      <br/>3. Christmas Medley A
-      <br/>4. Christmas Medley B
-      <br/>5. The Nutcracker :  Miniature Overture
-      </font>
+      <br/>1. Second Waltz From Suite No.2 for Variety Orchestra, 나홀로집에 OST
+      <br/>2. When You Wish Upon A Star, 월트디즈니 피노키오
+      <br/>3. Christmas Medley, 크리스마드 메들리 A
+      <br/>4. Christmas Medley, 크리스마드 메들리 B
+      <br/>5. The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡
     </td>
     <td width='35%'>
       <img src="./images/poster_20211218_2.jpg" width='300px'>
