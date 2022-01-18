@@ -7,7 +7,7 @@
 </div>
 
 ## 라라 필하모닉 오케스트라 -  2021 크리스마스 연주회
-<table border=0 width='960px' bgcolor='black'>
+<table border=0 width='960px'>
   <tr>
     <td width='35%'>
       <img src="./images/poster_20211218_1.jpg" width='300px'>
@@ -15,12 +15,14 @@
     <td width='30%'>
       <img src="./images/lala_philharmonic_logo.png" width='250px'>
       <font color='#EEEEEE' size=2>
-      <br/>Concert Play List
+      <br/><b><u>Concert Play List</u></b>
+      <i>
       <br/>1. Second Waltz From Suite No.2 for Variety Orchestra
       <br/>2. When You Wish Upon A Star
       <br/>3. Christmas Medley A
       <br/>4. Christmas Medley B
       <br/>5. The Nutcracker :  Miniature Overture
+      </i>
       </font>
     </td>
     <td width='35%'>
@@ -28,9 +30,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 
 <table border=0 width='960px'>
@@ -47,11 +46,10 @@
 
 
 ## 오케스트라 연주 악보 -  Play List
-- 10월 : [Second Waltz                          ][PlayList-10-1]
-- 10월 : [When You Wish Upon a Star     ][PlayList-10-2]
-- 11월 : [Christmas Medley                    ][PlayList-11-1]
-- 11월 : [Nutcracker Overture                 ][PlayList-11-2]
-
+- 10월 : [Second Waltz From Suite No.2 for Variety Orchestra, 나홀로집에 OST   ][PlayList-10-1]
+- 10월 : [When You Wish Upon A Star, 월트디즈니 피노키오                            ][PlayList-10-2]
+- 11월 : [Christmas Medley, 크리스마드 메들리                                              ][PlayList-11-1]
+- 11월 : [The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡               ][PlayList-11-2]
 <hr>
 
 [PlayList-10-1]: ./playlist/21_10_second_waltz                            "Go PlayList-10-1"
