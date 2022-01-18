@@ -4,8 +4,8 @@
 <div align='right'><font size=2 color='gray'>LALA Philharmonic  @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / Viloin </a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <br>
 
-## 라라필 오케스트라 합주연습 - 2021년 11월
-https://github.com/bigpycraft/orchestra/blob/main/orchestra/video/20211106_pinocchio.mp4
+## 라라필 오케스트라 합주연습 - 사진들
+https://github.com/bigpycraft/lala_phil_2021/blob/main/orchestra/video/20211106_pinocchio.mp4
 
 <video src="./video/20211106_pinocchio.mp4" width="1280px" height="720px" controls autoplay loop></video>
 - [합주연습 동영상][V_2021_11_01]
@@ -27,5 +27,5 @@ https://github.com/bigpycraft/orchestra/blob/main/orchestra/video/20211106_pinoc
 
 <hr>
 
-[V_2021_11_01]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/orchestra/blob/master/orchestra/index.html                                "Go V_2021_11_01"
+[V_2021_11_01]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/lala_phil_2021/blob/master/orchestra/index.html                                "Go V_2021_11_01"
 
