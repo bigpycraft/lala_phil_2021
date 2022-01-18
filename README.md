@@ -48,7 +48,7 @@
 ## 오케스트라 연주 악보 -  Play List
 - 10월 : [Second Waltz From Suite No.2 for Variety Orchestra, 나홀로집에 OST   ][PlayList-10-1]
 - 10월 : [When You Wish Upon A Star, 월트디즈니 피노키오                            ][PlayList-10-2]
-- 11월 : [Christmas Medley, 크리스마드 메들리                                              ][PlayList-11-1]
+- 11월 : [Christmas Medley, 크리스마스 메들리 A, B                                        ][PlayList-11-1]
 - 11월 : [The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡               ][PlayList-11-2]
 <hr>
 

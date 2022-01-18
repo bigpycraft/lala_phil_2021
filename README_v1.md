@@ -18,8 +18,8 @@
       <br/>Concert Play List
       <br/>1. Second Waltz From Suite No.2 for Variety Orchestra, 나홀로집에 OST
       <br/>2. When You Wish Upon A Star, 월트디즈니 피노키오
-      <br/>3. Christmas Medley, 크리스마드 메들리 A
-      <br/>4. Christmas Medley, 크리스마드 메들리 B
+      <br/>3. Christmas Medley, 크리스마스 메들리 A
+      <br/>4. Christmas Medley, 크리스마스 메들리 B
       <br/>5. The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡
     </td>
     <td width='35%'>
