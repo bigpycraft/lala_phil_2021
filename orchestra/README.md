@@ -4,7 +4,7 @@
 <div align='right'><font size=2 color='gray'>LALA Philharmonic  @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / Viloin </a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <br>
 
-## 2021 크리스마스연주회 연습 - 동영상
+## 2021 크리스마스 연주회 - 합주연습 동영상
 
 - [2021.11.06 - When You Wish Upon a Star      ][P20211106_1]
 - [2021.11.06 - Second Waltz                           ][P20211106_2]
@@ -26,7 +26,7 @@
 
 <hr>
 
-## 2021 크리스마스연주회 연습 - 사진들
+## 2021 크리스마스 연주회 - 합주연습 사진들
 
 <img src="./photo/합주연습_2021년11월_01.jpg">
 <img src="./photo/합주연습_2021년11월_02.jpg">
