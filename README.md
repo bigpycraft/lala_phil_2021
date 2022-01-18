@@ -52,7 +52,7 @@
 - 11월 : [The Nutcracker :  Miniature Overture, 호두까기 인형 중 서곡               ][PlayList-11-2]
 <hr>
 
-[PlayList-10-1]: ./playlist/21_10_second_waltz                            "Go PlayList-10-1"
-[PlayList-10-2]: ./playlist/21_10_when_you_wish_upon_a_star        "Go PlayList-10-2"
-[PlayList-11-1]: ./playlist/21_11_christmas_medley                       "Go PlayList-11-1"
-[PlayList-11-2]: ./playlist/21_11_nutcracker_overture                    "Go PlayList-11-2"
+[PlayList-10-1]: ./playlist/sm21_10_second_waltz                            "Go PlayList-10-1"
+[PlayList-10-2]: ./playlist/sm21_10_when_you_wish_upon_a_star        "Go PlayList-10-2"
+[PlayList-11-1]: ./playlist/sm21_11_christmas_medley                       "Go PlayList-11-1"
+[PlayList-11-2]: ./playlist/sm21_11_nutcracker_overture                    "Go PlayList-11-2"
